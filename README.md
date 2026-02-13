@@ -1,6 +1,6 @@
 # HMM + Fibonacci Retracements (thesis code)
 
-Python code for **one-day-ahead stock forecasting** and **Buy/Sell/Hold signal generation** using a **Gaussian Hidden Markov Model (HMM)**, with an optional **Fibonacci retracement (FR)** confirmation layer. Tickers are defined in `companies.json`.
+Python code for **one-day-ahead stock forecasting** and **Buy/Sell/Hold signal generation** using a **Gaussian Hidden Markov Model (HMM)**, with **Fibonacci retracement (FR)** confirmation layer. Tickers are defined in `companies.json`.
 
 ## Files
 - `companies.json` – sectors + company names + tickers
