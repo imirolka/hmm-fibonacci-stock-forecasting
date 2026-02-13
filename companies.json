@@ -1,0 +1,53 @@
+{
+    "Information Technology": [
+      {"name": "Apple", "ticker": "AAPL"},
+      {"name": "Microsoft", "ticker": "MSFT"},
+      {"name": "ServiceNow", "ticker": "NOW"}
+    ],
+    "Financials": [
+      {"name": "JPMorgan Chase", "ticker": "JPM"},
+      {"name": "Goldman Sachs", "ticker": "GS"},
+      {"name": "Fifth Third Bancorp", "ticker": "FITB"}
+    ],
+    "Health Care": [
+      {"name": "Johnson & Johnson", "ticker": "JNJ"},
+      {"name": "Pfizer", "ticker": "PFE"},
+      {"name": "Moderna", "ticker": "MRNA"}
+    ],
+    "Consumer Staples": [
+      {"name": "Procter & Gamble", "ticker": "PG"},
+      {"name": "Coca-Cola", "ticker": "KO"},
+      {"name": "Hormel Foods", "ticker": "HRL"}
+    ],
+    "Energy": [
+      {"name": "ExxonMobil", "ticker": "XOM"},
+      {"name": "Chevron", "ticker": "CVX"},
+      {"name": "Devon Energy", "ticker": "DVN"}
+    ],
+    "Consumer Discretionary": [
+      {"name": "Tesla", "ticker": "TSLA"},
+      {"name": "Amazon", "ticker": "AMZN"},
+      {"name": "Darden Restaurants", "ticker": "DRI"}
+    ],
+    "Industrials": [
+      {"name": "Caterpillar", "ticker": "CAT"},
+      {"name": "Boeing", "ticker": "BA"},
+      {"name": "Jacobs Engineering", "ticker": "J"}
+    ],
+    "Utilities": [
+      {"name": "Duke Energy", "ticker": "DUK"},
+      {"name": "NextEra Energy", "ticker": "NEE"},
+      {"name": "PPL Corporation", "ticker": "PPL"}
+    ],
+    "Real Estate": [
+      {"name": "Realty Income", "ticker": "O"},
+      {"name": "Simon Property Group", "ticker": "SPG"},
+      {"name": "Regency Centers", "ticker": "REG"}
+    ],
+    "Materials": [
+      {"name": "DuPont", "ticker": "DD"},
+      {"name": "CF Industries", "ticker": "CF"},
+      {"name": "Hecla Mining", "ticker": "HL"}
+    ]
+  }
+  
